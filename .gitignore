@@ -1,0 +1,26 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+
+# Python specific
+*.log
+
+# Environment files
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Docker
+*.tar
