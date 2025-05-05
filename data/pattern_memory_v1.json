@@ -1,0 +1,115 @@
+{
+  "patterns": [
+    {
+      "id": 0,
+      "signal_strength": 0.8014,
+      "trade_type": "Sell",
+      "features": {
+        "price_gap": 0.0084,
+        "slippage": 0.1799,
+        "fee": 0.0341
+      },
+      "matched_times": 2
+    },
+    {
+      "id": 1,
+      "signal_strength": 0.8023,
+      "trade_type": "Sell",
+      "features": {
+        "price_gap": 0.0011,
+        "slippage": 0.0769,
+        "fee": 0.0481
+      },
+      "matched_times": 97
+    },
+    {
+      "id": 2,
+      "signal_strength": 0.9716,
+      "trade_type": "Hold",
+      "features": {
+        "price_gap": 0.0039,
+        "slippage": 0.1097,
+        "fee": 0.0482
+      },
+      "matched_times": 17
+    },
+    {
+      "id": 3,
+      "signal_strength": 0.968,
+      "trade_type": "Hold",
+      "features": {
+        "price_gap": 0.0019,
+        "slippage": 0.142,
+        "fee": 0.0226
+      },
+      "matched_times": 12
+    },
+    {
+      "id": 4,
+      "signal_strength": 0.8764,
+      "trade_type": "Sell",
+      "features": {
+        "price_gap": 0.0083,
+        "slippage": 0.119,
+        "fee": 0.0403
+      },
+      "matched_times": 62
+    },
+    {
+      "id": 5,
+      "signal_strength": 0.8009,
+      "trade_type": "Sell",
+      "features": {
+        "price_gap": 0.0017,
+        "slippage": 0.1945,
+        "fee": 0.0317
+      },
+      "matched_times": 93
+    },
+    {
+      "id": 6,
+      "signal_strength": 0.947,
+      "trade_type": "Sell",
+      "features": {
+        "price_gap": 0.0063,
+        "slippage": 0.0292,
+        "fee": 0.042
+      },
+      "matched_times": 52
+    },
+    {
+      "id": 7,
+      "signal_strength": 0.8842,
+      "trade_type": "Hold",
+      "features": {
+        "price_gap": 0.0049,
+        "slippage": 0.0315,
+        "fee": 0.0315
+      },
+      "matched_times": 31
+    },
+    {
+      "id": 8,
+      "signal_strength": 0.9803,
+      "trade_type": "Sell",
+      "features": {
+        "price_gap": 0.0075,
+        "slippage": 0.1746,
+        "fee": 0.0352
+      },
+      "matched_times": 49
+    },
+    {
+      "id": 9,
+      "signal_strength": 0.8278,
+      "trade_type": "Buy",
+      "features": {
+        "price_gap": 0.0053,
+        "slippage": 0.158,
+        "fee": 0.0402
+      },
+      "matched_times": 42
+    }
+  ],
+  "last_saved": "2025-05-03 19:20:12.703452"
+}
